@@ -1,0 +1,6 @@
+base\TDDBase.class
+pageLayer\TDDAddCorporatePage.class
+pageLayer\TDDHomepage.class
+utilities\TDDUtil.class
+utilities\Xls_Reader.class
+pageLayer\TDDLoginPage.class
